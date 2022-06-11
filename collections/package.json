@@ -1,0 +1,21 @@
+{
+  "name": "collections-py",
+  "version": "1.0.0",
+  "description": "Implementation of Python's collections module in JavaScript",
+  "main": "main.js",
+  
+  "keywords": [
+    "collections",
+    "python",
+    "py",
+    "collect",
+    "collection",
+    "iters",
+    "iamrealbhuvi"
+  ],
+  "author": "iamrealbhuvi",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
