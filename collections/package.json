@@ -14,8 +14,5 @@
     "iamrealbhuvi"
   ],
   "author": "iamrealbhuvi",
-  "license": "MIT",
-  "dependencies": {
-    "nodemon": "^2.0.16"
-  }
+  "license": "MIT"
 }
